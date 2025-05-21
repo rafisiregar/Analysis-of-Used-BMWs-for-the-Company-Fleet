@@ -5,7 +5,7 @@ Analysis On BMW Used Cars For Company's Vehicle
 ## Repository Outline
 
 1. P0M1_rafi_siregar.ipynb -- notebook pengolaan data dengan python
-2. P0M1_rafi_siregar.xlsx -- data clean
+2. P0M1_rafi_siregar_dataset.xlsx -- data clean
 3. dfno5.xlsx -- data analisa nomor 5
 4. df12346 -- data analisa nomor 1,2,3,4, dan 6
 5. BMW.csv -- dataset yang diperoleh dari kaggle
