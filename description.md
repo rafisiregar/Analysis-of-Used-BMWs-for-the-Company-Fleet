@@ -49,7 +49,7 @@ Menggunakan python untuk mengelola data dan melakukan perhitungan statistika ser
 ## Reference
 
 - https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes/data?select=bmw.csv
-- https://public.tableau.com/app/profile/rafi.siregar/viz/milestone_17478445912520/Dashboard1?publish=yes
+- https://public.tableau.com/app/profile/rafi.siregar/viz/milestone_17478445912520/Dashboard2?publish=yes
 
 ---
 
