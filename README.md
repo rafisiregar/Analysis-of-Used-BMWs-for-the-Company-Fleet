@@ -2,7 +2,7 @@
 
 ## Problem Background
 
-The company is tasked with selecting 5 pre-owned BMW cars for its fleet, with a budget of  **£150,000**. The goal is to buy 3 **NON-EV** units, 1 **Hybrid** unit, and 1 **Electric** unit, focusing on minimizing depreciation and maximizing the vehicle's residual value. The cars will be categorized into three price ranges:  **£15,000 (low)**,  **£30,000 (medium)**, and  **£45,000 (high)**. All vehicles will be purchased regardless of their price category.
+The company is tasked with selecting 5 pre-owned BMW cars for its fleet, with a budget of  **£150,000**. The goal is to buy 3 **NON-EV** units, 1 **Hybrid** unit, and 1 **Electric** unit, focusing on minimizing depreciation and maximizing the vehicle's residual value. The cars will be categorized into three price ranges:  **£15,000 (low)**,  **£30,000 (medium)**, and  **£45,000 (high)**. All vehicles will be purchased, provided that the budget permits for it, regardless of their price category.
 
 ## Project Output
 
@@ -35,6 +35,17 @@ The dataset we're using comes from Kaggle. The data is generally clean, but some
 ## Method
 
 The methods used in the analysis include central tendency calculations, descriptive statistics using confidence intervals to understand the potential profits, and inferential statistics using Pearson correlation to examine the relationships between variables.
+
+## Conclusion & Recommendation
+
+* **Diesel Cars** offer better price benefits, but they fall short in terms of mileage and fuel efficiency. Overall, **petrol cars** provide better value for money in the **NON-EV** category.
+* Based on the **confidence interval** results, the top 5 car models for each fuel type are as follows:
+
+  * **Petrol cars** : The best return for diesel vehicles is seen with the **M5 Petrol 2019** and **8 Series 2019 Petrol** models.
+  * **Diesel cars** : The **X6 Diesel 2020** model offers the best return for diesel cars.
+  * **Hybrid cars** : The best hybrid models are the **i8 2017** and  **i8 2019** .
+  * **Electric cars (EV)** : The **i3 2016** is the top-performing EV.
+* The selection of these car units is based on an observation of the correlation between price and mileage for each fuel type, combined with insights from car prices, mileage, and engine sizes across different price categories (from cheap to expensive). The findings will be shared with the company to assist in further decision-making.
 
 ## Stacks
 
